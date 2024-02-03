@@ -4,7 +4,7 @@
 This project involves a detailed statistical analysis of the Boston housing dataset. The aim is to uncover the relationships between various housing attributes and median home values in Boston, providing insights into urban housing market dynamics.
 
 ## Files in the Project
-- `BostonHousingAnalysis.R`: The main R script file containing the code for statistical tests and data analysis.
+- `boston_analysis.R`: The main R script file containing the code for statistical tests and data analysis.
 - `housing.csv`: Dataset file containing the Boston housing data.
 - `Final_Report.pdf`: Comprehensive report detailing the findings and methodologies used.
 
@@ -22,7 +22,7 @@ This project involves a detailed statistical analysis of the Boston housing data
 
 ## Results
 The project identifies significant factors influencing Boston's housing market, offering valuable perspectives for urban economic studies and real estate analysis.
-You can go through the report for clear explaination of each test.
+You can go through the report for a clear explanation of each test.
 
 
 ---
